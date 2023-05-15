@@ -1,6 +1,8 @@
 # # Historia de usuario 
 
+<img src = "IMAGENES/historiau1.jpeg" width="600" height="500">
 
+<img src = "IMAGENES/historiau2.jpeg" width="600" height="500">
 
 # # Descripción caso de uso 
 
@@ -53,9 +55,12 @@ El objetivo de este sistema es permitir el registro de las ventas de cinturones 
 
 - Se debe asegurar el cierre adecuado del objeto `Scanner` al finalizar la interacción con el usuario.
 
+---------
+
 
 # # Diagrama de Caso de Uso 
 
+<img src = "IMAGENES/casodeusodiag.jpeg" width="600" height="500">
 
 # # Detalle del caso de uso 
 
@@ -108,31 +113,12 @@ El objetivo de este caso de uso es permitir el registro de las ventas de cinturo
 
 - Se obtiene información sobre el modelo más vendido y el total de ventas
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+-----
 
 # # DFD
-
-
-
-
-
-
-
-
-
+------
+<img src = "IMAGENES/dfd.jpeg" width="600" height="500">
+-------
 
 # #  Pseudocodigo
 
